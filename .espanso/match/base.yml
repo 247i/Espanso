@@ -1,0 +1,12 @@
+# espanso match file
+
+
+
+# Matches are substitution rules: when you type the "trigger" string
+# it gets replaced by the "replace" string.
+matches:
+  - trigger: ":tace"
+    replace: "தமிழ் நேரம்!"
+
+  - trigger: ":br"
+    replace: "அன்புடன்,\nதமிழ் நேரம்"

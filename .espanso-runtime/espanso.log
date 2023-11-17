@@ -1,0 +1,109 @@
+12:06:07 [daemon(15248)] [INFO] reading configs from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:06:07 [daemon(15248)] [INFO] reading packages from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso\\match\\packages"
+12:06:07 [daemon(15248)] [INFO] using runtime dir: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso-runtime"
+12:06:07 [daemon(15248)] [INFO] system info: Windows v10 (22621) - kernel: 22621
+12:06:07 [daemon(15248)] [INFO] watching for changes in path: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:06:07 [daemon(15248)] [INFO] espanso version: 2.1.8
+12:06:07 [daemon(15248)] [INFO] spawning the worker process...
+12:06:07 [daemon(15248)] [INFO] binded to named pipe: \\.\pipe\espansodaemonv2
+12:06:07 [worker(15284)] [INFO] reading configs from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:06:07 [worker(15284)] [INFO] reading packages from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso\\match\\packages"
+12:06:07 [worker(15284)] [INFO] using runtime dir: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso-runtime"
+12:06:07 [worker(15284)] [INFO] system info: Windows v10 (22621) - kernel: 22621
+12:06:07 [worker(15284)] [INFO] binded to named pipe: \\.\pipe\espansoworkerv2
+12:06:07 [worker(15284)] [INFO] using Win32AppInfoProvider
+12:06:07 [worker(15284)] [INFO] monitoring the status of the daemon process
+12:06:07 [worker(15284)] [INFO] using Win32Source
+12:06:07 [worker(15284)] [INFO] using Win32Injector
+12:06:07 [worker(15284)] [INFO] using Win32Clipboard
+12:06:08 [worker(15284)] [WARN] unable to find espanso AppUserModelID in the list of registered ones, falling back to Powershell
+12:17:38 [package(13284)] [INFO] reading configs from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:17:38 [package(13284)] [INFO] reading packages from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso\\match\\packages"
+12:17:38 [package(13284)] [INFO] using runtime dir: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso-runtime"
+12:17:38 [package(13284)] [INFO] system info: Windows v10 (22621) - kernel: 22621
+12:17:38 [package(13284)] [INFO] installing package: basic-emojis - version: latest
+12:17:38 [package(13284)] [INFO] using package provider: espanso-hub
+12:17:38 [package(13284)] [INFO] fetching package index...
+12:17:43 [package(13284)] [INFO] validating sha256 signature...
+12:17:43 [package(13284)] [INFO] found package: basic-emojis - version: 0.1.0
+12:17:43 [package(13284)] [INFO] package installed!
+12:17:45 [daemon(15248)] [INFO] configuration change detected, restarting worker process...
+12:17:45 [worker(15284)] [INFO] engine eventloop has terminated, propagating exit event...
+12:17:45 [worker(15284)] [INFO] waiting for engine exit mode...
+12:17:45 [worker(15284)] [INFO] exiting worker process...
+12:17:45 [daemon(15248)] [INFO] spawning the worker process...
+12:17:45 [worker(7268)] [INFO] reading configs from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:17:45 [worker(7268)] [INFO] reading packages from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso\\match\\packages"
+12:17:45 [worker(7268)] [INFO] using runtime dir: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso-runtime"
+12:17:45 [worker(7268)] [INFO] system info: Windows v10 (22621) - kernel: 22621
+12:17:45 [worker(7268)] [INFO] binded to named pipe: \\.\pipe\espansoworkerv2
+12:17:45 [worker(7268)] [INFO] using Win32AppInfoProvider
+12:17:45 [worker(7268)] [INFO] monitoring the status of the daemon process
+12:17:45 [worker(7268)] [INFO] using Win32Source
+12:17:45 [worker(7268)] [INFO] using Win32Injector
+12:17:45 [worker(7268)] [INFO] using Win32Clipboard
+12:17:46 [worker(7268)] [WARN] unable to find espanso AppUserModelID in the list of registered ones, falling back to Powershell
+12:17:46 [daemon(15248)] [INFO] configuration change detected, restarting worker process...
+12:17:46 [worker(7268)] [INFO] engine eventloop has terminated, propagating exit event...
+12:17:46 [worker(7268)] [INFO] waiting for engine exit mode...
+12:17:46 [worker(7268)] [INFO] exiting worker process...
+12:17:46 [daemon(15248)] [INFO] spawning the worker process...
+12:17:46 [worker(12112)] [INFO] reading configs from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:17:46 [worker(12112)] [INFO] reading packages from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso\\match\\packages"
+12:17:46 [worker(12112)] [INFO] using runtime dir: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso-runtime"
+12:17:46 [worker(12112)] [INFO] system info: Windows v10 (22621) - kernel: 22621
+12:17:46 [worker(12112)] [INFO] binded to named pipe: \\.\pipe\espansoworkerv2
+12:17:46 [worker(12112)] [INFO] using Win32AppInfoProvider
+12:17:46 [worker(12112)] [INFO] monitoring the status of the daemon process
+12:17:46 [worker(12112)] [INFO] using Win32Source
+12:17:46 [worker(12112)] [INFO] using Win32Injector
+12:17:46 [worker(12112)] [INFO] using Win32Clipboard
+12:17:47 [worker(12112)] [WARN] unable to find espanso AppUserModelID in the list of registered ones, falling back to Powershell
+12:21:12 [daemon(15248)] [INFO] configuration change detected, restarting worker process...
+12:21:12 [worker(12112)] [INFO] engine eventloop has terminated, propagating exit event...
+12:21:12 [worker(12112)] [INFO] waiting for engine exit mode...
+12:21:12 [worker(12112)] [INFO] exiting worker process...
+12:21:12 [daemon(15248)] [INFO] spawning the worker process...
+12:21:12 [worker(13620)] [INFO] reading configs from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:21:12 [worker(13620)] [INFO] reading packages from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso\\match\\packages"
+12:21:12 [worker(13620)] [INFO] using runtime dir: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso-runtime"
+12:21:12 [worker(13620)] [INFO] system info: Windows v10 (22621) - kernel: 22621
+12:21:12 [worker(13620)] [INFO] binded to named pipe: \\.\pipe\espansoworkerv2
+12:21:12 [worker(13620)] [INFO] monitoring the status of the daemon process
+12:21:12 [worker(13620)] [INFO] using Win32AppInfoProvider
+12:21:12 [worker(13620)] [INFO] using Win32Source
+12:21:12 [worker(13620)] [INFO] using Win32Injector
+12:21:12 [worker(13620)] [INFO] using Win32Clipboard
+12:21:12 [worker(13620)] [WARN] unable to find espanso AppUserModelID in the list of registered ones, falling back to Powershell
+12:22:57 [daemon(15248)] [INFO] configuration change detected, restarting worker process...
+12:22:57 [worker(13620)] [INFO] engine eventloop has terminated, propagating exit event...
+12:22:57 [worker(13620)] [INFO] waiting for engine exit mode...
+12:22:57 [worker(13620)] [INFO] exiting worker process...
+12:22:57 [daemon(15248)] [INFO] spawning the worker process...
+12:22:57 [worker(13832)] [INFO] reading configs from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:22:57 [worker(13832)] [INFO] reading packages from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso\\match\\packages"
+12:22:57 [worker(13832)] [INFO] using runtime dir: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso-runtime"
+12:22:57 [worker(13832)] [INFO] system info: Windows v10 (22621) - kernel: 22621
+12:22:57 [worker(13832)] [INFO] binded to named pipe: \\.\pipe\espansoworkerv2
+12:22:57 [worker(13832)] [INFO] using Win32AppInfoProvider
+12:22:57 [worker(13832)] [INFO] monitoring the status of the daemon process
+12:22:57 [worker(13832)] [INFO] using Win32Source
+12:22:57 [worker(13832)] [INFO] using Win32Injector
+12:22:57 [worker(13832)] [INFO] using Win32Clipboard
+12:22:58 [worker(13832)] [WARN] unable to find espanso AppUserModelID in the list of registered ones, falling back to Powershell
+12:25:22 [daemon(15248)] [INFO] configuration change detected, restarting worker process...
+12:25:22 [worker(13832)] [INFO] engine eventloop has terminated, propagating exit event...
+12:25:22 [worker(13832)] [INFO] waiting for engine exit mode...
+12:25:22 [worker(13832)] [INFO] exiting worker process...
+12:25:22 [daemon(15248)] [INFO] spawning the worker process...
+12:25:22 [worker(14572)] [INFO] reading configs from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso"
+12:25:22 [worker(14572)] [INFO] reading packages from: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso\\match\\packages"
+12:25:22 [worker(14572)] [INFO] using runtime dir: "D:\\அறி\\Apps\\பின\u{bcd}னணி\\உரைவிரிவ\u{bbe}க\u{bcd}கி\\.espanso-runtime"
+12:25:22 [worker(14572)] [INFO] system info: Windows v10 (22621) - kernel: 22621
+12:25:22 [worker(14572)] [INFO] binded to named pipe: \\.\pipe\espansoworkerv2
+12:25:22 [worker(14572)] [INFO] monitoring the status of the daemon process
+12:25:22 [worker(14572)] [INFO] using Win32AppInfoProvider
+12:25:22 [worker(14572)] [INFO] using Win32Source
+12:25:22 [worker(14572)] [INFO] using Win32Injector
+12:25:22 [worker(14572)] [INFO] using Win32Clipboard
+12:25:22 [worker(14572)] [WARN] unable to find espanso AppUserModelID in the list of registered ones, falling back to Powershell
